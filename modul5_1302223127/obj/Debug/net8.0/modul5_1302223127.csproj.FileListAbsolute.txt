@@ -1,0 +1,15 @@
+D:\modul5_1302223127\modul5_1302223127\bin\Debug\net8.0\modul5_1302223127.exe
+D:\modul5_1302223127\modul5_1302223127\bin\Debug\net8.0\modul5_1302223127.deps.json
+D:\modul5_1302223127\modul5_1302223127\bin\Debug\net8.0\modul5_1302223127.runtimeconfig.json
+D:\modul5_1302223127\modul5_1302223127\bin\Debug\net8.0\modul5_1302223127.dll
+D:\modul5_1302223127\modul5_1302223127\bin\Debug\net8.0\modul5_1302223127.pdb
+D:\modul5_1302223127\modul5_1302223127\obj\Debug\net8.0\modul5_1302223127.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul5_1302223127\modul5_1302223127\obj\Debug\net8.0\modul5_1302223127.AssemblyInfoInputs.cache
+D:\modul5_1302223127\modul5_1302223127\obj\Debug\net8.0\modul5_1302223127.AssemblyInfo.cs
+D:\modul5_1302223127\modul5_1302223127\obj\Debug\net8.0\modul5_1302223127.csproj.CoreCompileInputs.cache
+D:\modul5_1302223127\modul5_1302223127\obj\Debug\net8.0\modul5_1302223127.sourcelink.json
+D:\modul5_1302223127\modul5_1302223127\obj\Debug\net8.0\modul5_1302223127.dll
+D:\modul5_1302223127\modul5_1302223127\obj\Debug\net8.0\refint\modul5_1302223127.dll
+D:\modul5_1302223127\modul5_1302223127\obj\Debug\net8.0\modul5_1302223127.pdb
+D:\modul5_1302223127\modul5_1302223127\obj\Debug\net8.0\modul5_1302223127.genruntimeconfig.cache
+D:\modul5_1302223127\modul5_1302223127\obj\Debug\net8.0\ref\modul5_1302223127.dll
